@@ -1,0 +1,15 @@
+{
+  "name": "pwskills-assignment",
+  "version": "1.0.0",
+  "description": "this is assignment given by pwskills sigma batch 2.0 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Saklain95"
+  },
+  "author": "saklain baig",
+  "license": "ISC"
+}
